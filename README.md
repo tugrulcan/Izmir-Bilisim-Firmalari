@@ -4,4 +4,4 @@
 
 | Firma Numarası  |     Firma Adı   |  Yapılan İşler  |    Web sitesi   |
 | -------------   |:---------------:|:---------------:|:---------------:|
-|       1         |  Test Firması   |      WEB        |     test.com    |
+|       1         |  Test Firması   |      WEB        |     www.test.com    |
