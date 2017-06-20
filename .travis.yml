@@ -1,0 +1,7 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+  - bash awesome_bot README.md -t 5 --allow-timeout --allow-dupe --allow-redirect
