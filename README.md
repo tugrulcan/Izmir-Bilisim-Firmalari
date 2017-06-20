@@ -1,4 +1,4 @@
-# İzmir Yazılım Firmaları
+## İzmir Yazılım Firmaları
 İzmir'de bulunan yazılım firmalarının listesi.
 
 
