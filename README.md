@@ -1,6 +1,8 @@
-# Izmir-Bilisim-Firmalari
-İzmir' de bulunan bilişim firmalarının listesi.
+# İzmir Yazılım Firmaları
+İzmir'de bulunan yazılım firmalarının listesi.
 
+
+[![Build Status](https://travis-ci.org/tugrulcan/Izmir-Bilisim-Firmalari.svg?branch=master)](https://travis-ci.org/tugrulcan/Izmir-Bilisim-Firmalari)
 
 | Firma Numarası  |     Firma Adı   |  Yapılan İşler  |    Web sitesi   |
 | -------------   |:---------------:|:---------------:|:---------------:|
