@@ -4,6 +4,6 @@
 
 [![Build Status](https://travis-ci.org/tugrulcan/Izmir-Bilisim-Firmalari.svg?branch=master)](https://travis-ci.org/tugrulcan/Izmir-Bilisim-Firmalari)
 
-|     Firma Adı   |  Yapılan İşler  |    Web sitesi   |
-|:---------------:|:---------------:|:---------------:|
-|  Test Firması   |      WEB        |     https://www.test.com    |
+|     Firma Adı   |     Web sitesi   |
+|:---------------:|:---------------:|
+|  Test Firması   |   https://www.test.com    |
